@@ -1,0 +1,1 @@
+In order to run program, jre\lib\security\ replace old files in it with new these files
